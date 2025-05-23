@@ -8,4 +8,5 @@ function calcularIMC() {
   } else {
     alert('Por favor, ingresa valores válidos.');
   }
+  
 }
